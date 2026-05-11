@@ -1,1 +1,3 @@
 Hi i am Santosh Beora. My role is  GCP data Engineer
+I enjoy building scalable cloud data pipelines.
+I am learning more about automation and analytics.
